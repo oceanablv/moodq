@@ -1,0 +1,36 @@
+name: ref2_testing_moodq
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.3.0
+  fl_chart: ^0.68.0
+  intl: ^0.19.0
+  csv: ^6.0.0
+  path_provider: ^2.1.0
+  share_plus: ^10.1.0
+  flutter_local_notifications: ^17.0.0
+  timezone: ^0.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter:
+  uses-material-design: true
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo.png"  # <-- Sesuaikan nama file gambar kamu
+  min_sdk_android: 21 # Opsional, untuk support android lama
