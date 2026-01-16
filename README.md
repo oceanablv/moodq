@@ -68,7 +68,6 @@ MoodQ adalah solusi komprehensif untuk manajemen kesehatan mental dengan fitur:
 - ✅ **Login** - Masuk dengan email dan password
 - ✅ **Forgot Password** - Reset password via email
 - ✅ **Change Password** - Ubah password untuk pengguna yang sudah login
-- ✅ **Session Management** - Manajemen session pengguna yang aman
 
 ### 🎯 Mood Tracking
 - ✅ **Daily Check-In** - Catat mood dengan 5 level (Excellent, Good, Neutral, Bad, Terrible)
@@ -91,10 +90,6 @@ MoodQ adalah solusi komprehensif untuk manajemen kesehatan mental dengan fitur:
 
 ### 🧘 Mindfulness & Wellness Practices
 - ✅ **Box Breathing** - Teknik pernapasan 4-4-4-4 untuk stress relief
-- ✅ **4-7-8 Breathing** - Teknik untuk kualitas tidur lebih baik
-- ✅ **Gratitude Practice** - Refleksi rasa syukur 3 menit
-- ✅ **5-Senses Grounding** - Teknik grounding menggunakan 5 indera
-- ✅ **Body Scan** - Relaksasi dari kepala hingga kaki (10 menit)
 - ✅ **Practice Duration Logging** - Catat durasi latihan untuk tracking
 
 ### 📋 DASS-21 Assessment
@@ -156,7 +151,8 @@ MoodQ adalah solusi komprehensif untuk manajemen kesehatan mental dengan fitur:
 - 🔐 **Biometric Login** - Login dengan fingerprint/face ID
 - 📱 **Web Dashboard** - Dashboard web untuk analisis detail
 - 🌐 **Multi-Language** - Support bahasa internasional
-
+- 🫁 **4-7-8 Breathing** - Teknik untuk kualitas tidur lebih baik
+- 🥹 **Gratitude Practice** - Refleksi rasa syukur 3 menit
 ---
 
 ## 💾 Instalasi
@@ -169,7 +165,7 @@ MoodQ adalah solusi komprehensif untuk manajemen kesehatan mental dengan fitur:
 ### Langkah-langkah
 1. **Clone Repository**
    ```bash
-   git clone https://github.com/yourusername/moodq.git
+   git clone https://github.com/oceanablv/moodq.git
    cd moodq
    ```
 
@@ -276,15 +272,6 @@ Aplikasi terhubung dengan backend API untuk:
 - **Smooth Animations** - Transisi yang mulus antar halaman
 - **Icon Integration** - Material icons untuk visual clarity
 - **Color Psychology** - Warna dipilih untuk wellness experience
-
----
-
-## 📞 Support & Contact
-
-Untuk pertanyaan atau feedback:
-- 📧 Email: [your-email@example.com]
-- 🐛 Issues: [GitHub Issues Link]
-- 💬 Discussions: [GitHub Discussions Link]
 
 ---
 
